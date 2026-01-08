@@ -1,0 +1,17 @@
+{
+    "name": "T_WM",
+    "rootNamespace": "",
+    "references": [
+        "GUID:becbc03d9a3ab1b41aecbc371944c18e",
+        "GUID:be7917ea80f91394d9f7cb24bc5bdffc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

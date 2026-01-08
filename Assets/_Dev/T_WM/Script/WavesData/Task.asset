@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70311cf1ed029fb4ab3a4e3dba76f590, type: 3}
+  m_Name: Task
+  m_EditorClassIdentifier: 
+  dataContainer:
+  - isInfinite: 0
+    waveStart: 1
+    wavesCount: 3
+    startCount: 10
+    multiplyCount: 20
+  - isInfinite: 1
+    waveStart: 4
+    wavesCount: 0
+    startCount: 70
+    multiplyCount: 10
